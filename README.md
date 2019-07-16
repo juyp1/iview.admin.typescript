@@ -65,7 +65,7 @@ typescript-iview-admin is a **replicate** version of [iview-admin](https://githu
 
 ```bash
 # clone the project
-git clone https://github.com/dreambo8563/typescript-iview-admin.git
+git clone https://github.com/juyp1/iview.admin.typescript
 
 // install dependencies
 npm install
